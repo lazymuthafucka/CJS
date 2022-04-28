@@ -16,13 +16,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>live.yremp.Shadowrocket</string>
+                     <string>cjs.Notability</string>
                      <key>bundle-version</key>
-                    <string>2.1.12</string>
+                    <string>10.6</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>Shadowrocket</string>
+                    <string>Notability</string>
                 </dict>
             </dict>
         </array>
