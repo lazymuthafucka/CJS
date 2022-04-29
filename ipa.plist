@@ -18,7 +18,7 @@
                     <key>bundle-identifier</key>
                      <string>cjs.Notability</string>
                      <key>bundle-version</key>
-                    <string>10.6</string>
+                    <string>10.5.1</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
