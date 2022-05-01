@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://123-1255726871.cos.ap-guangzhou.myqcloud.com/Notability_10.4.5%EF%BC%88%E6%AD%A3%E7%89%88%EF%BC%89.ipa</string>
+                        <string>https://123-1255726871.cos.ap-guangzhou.myqcloud.com/Notability%2010.6.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
@@ -18,7 +18,7 @@
                     <key>bundle-identifier</key>
                      <string>cjs.Notability</string>
                      <key>bundle-version</key>
-                    <string>10.4.5</string>
+                    <string>10.6</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
